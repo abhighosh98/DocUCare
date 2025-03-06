@@ -1,0 +1,10 @@
+streamlit==1.41.1
+transformers==4.47.1
+PIL==11.1.0
+torch==2.5.1
+pvrecorder==1.2.3
+pyannote.audio==3.3.2
+pydub==0.25.1
+ollama==0.4.5
+numpy==2.0.2
+cv2==4.10.0
